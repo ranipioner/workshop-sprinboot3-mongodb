@@ -2,7 +2,7 @@
 
 This project is a hands-on workshop built with **Spring Boot 3**, **Java 21**, and **MongoDB**. It demonstrates how to build a RESTful API using modern Java and Spring technologies with a document-based NoSQL database. The system manages users and posts, with support for comments, DTOs, and robust error handling.
 This project was made through Nelio Alves's Udemy Course "Java COMPLETO Programação Orientada a Objetos + Projetos" @acenelio (Github)
----
+
 
 ## ✅ Features
 
